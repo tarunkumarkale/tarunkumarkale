@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/tarun-kale-a52945166)
 
-- 💬 Ask me about **Javascript, Reactjs, Html, css**
+- 💬 Ask me about **Front-end Developer | React JS |JavaScript |**
 
 - 📫 How to reach me **tkumarkale@gmail.com**
 
@@ -34,6 +34,10 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="tailwind" width="40" height="40"/>
+
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunkumarkale&show_icons=true&locale=en&layout=compact" alt="tarunkumarkale" /></p>
