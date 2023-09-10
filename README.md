@@ -36,6 +36,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="tailwind" width="40" height="40"/>
+     <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="tailwind" width="40" height="40"/>
 
 
 </p>
