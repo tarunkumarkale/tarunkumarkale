@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="tailwind" width="40" height="40"/>
      
