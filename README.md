@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarunkale255963" target="_blank"><img src="https://img.shields.io/twitter/follow/tarunkale255963?logo=twitter&style=for-the-badge" alt="tarunkale255963" /></a> </p>
 
-- 🌱 I’m currently learning **Figma tool, tailwind_css**
+- 🌱 I’m currently learning **Next.js**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/tarun-kale-a52945166)
 
