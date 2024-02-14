@@ -1,4 +1,7 @@
-![PROFILE](https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/c703192b-7aea-4b6f-aa6d-d4ee8564133e)
+<div align="center">
+  <img src="https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/c703192b-7aea-4b6f-aa6d-d4ee8564133e" alt="Profile Picture" height="500">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm tarun kale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
