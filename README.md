@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm tarun kale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkumarkale" alt="tarunkumarkale" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@tarunkale255963" target="blank"><img src="https://img.shields.io/twitter/follow/@tarunkale255963?logo=twitter&style=for-the-badge" alt="@tarunkale255963" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tarunkale255963" target="blank"><img src="https://img.shields.io/twitter/follow/tarunkale255963?logo=twitter&style=for-the-badge" alt="tarunkale255963" /></a> </p>
 
 - 🌱 I’m currently learning **Next js**
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@tarunkale255963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tarunkale255963" height="30" width="40" /></a>
+<a href="https://twitter.com/tarunkale255963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarunkale255963" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarun-kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kale" height="30" width="40" /></a>
 </p>
 
