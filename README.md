@@ -2,10 +2,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
+<p align="right">
   <a href="https://www.linkedin.com/in/tarun-kale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-tarun--kale-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
 </p>
+
 
 - 🌱 I’m currently learning **Next js**
 
