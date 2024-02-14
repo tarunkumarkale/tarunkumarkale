@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/ee88c8c6-e33f-44dd-88a9-3d9eed251ad4" alt="Profile Picture" width="100%" height="360">
+  <img src="https://github.com/tarunkumarkale/tarunkumarkale/raw/main/assets/130459422/98e94fbe-c57d-43df-926e-340967578634.jpg" alt="Profile Picture" width="100%" height="380">
 </div>
+
 
 
 
