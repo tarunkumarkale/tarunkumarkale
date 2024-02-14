@@ -1,11 +1,10 @@
 
 # Hi There! 👋
-<svg width="250" height="35" viewBox="0 0 250 35" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="25" font-family="'Righteous', sans-serif" font-size="35" fill="#000">
-    <tspan id="name" opacity="0">Tarun kale</tspan>
-    <animate attributeName="opacity" from="0" to="1" dur="4s" fill="freeze" begin="0s"/>
-  </text>
-</svg>
+
+![Typing Animation](https://path_to_your_gif_file.gif)
+
+**Tarun kale**
+
 
 
 <img align="'right" alt="frontend" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
