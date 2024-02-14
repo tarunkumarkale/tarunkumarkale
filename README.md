@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm tarun kale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/tarunkale255963" target="blank"><img src="https://img.shields.io/twitter/follow/tarunkale255963?logo=twitter&style=for-the-badge" alt="tarunkale255963" /></a> </p>
+<p align="right"> <a href="https://twitter.com/tarunkale255963" target="blank"><img src="https://img.shields.io/twitter/follow/tarunkale255963?logo=twitter&style=for-the-badge" alt="tarunkale255963" /></a> </p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/tarun-kale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-tarun--kale-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Next js**
 
