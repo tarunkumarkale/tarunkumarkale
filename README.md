@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/c703192b-7aea-4b6f-aa6d-d4ee8564133e" alt="Profile Picture" height="300">
+<div align="center">
+  <img src="https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/c703192b-7aea-4b6f-aa6d-d4ee8564133e" alt="Profile Picture" style="width: 100%;">
+</div>
+
 </div>
 
 
