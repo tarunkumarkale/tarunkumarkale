@@ -1,10 +1,7 @@
 <div align="center">
-<div align="center">
-  <img src="https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/c703192b-7aea-4b6f-aa6d-d4ee8564133e" alt="Profile Picture" height="420" width="100%">
+  <img src="https://github.com/tarunkumarkale/tarunkumarkale/assets/130459422/ee88c8c6-e33f-44dd-88a9-3d9eed251ad4" alt="Profile Picture" width="100%" height="360">
 </div>
 
-
-</div>
 
 
 <h1 align="center">Hi 👋, I'm tarun kale</h1>
