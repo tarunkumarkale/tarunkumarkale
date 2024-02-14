@@ -8,12 +8,13 @@
   </a>
 </p>
 
-
+<div  align="center" >
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **REACT JS , JAVASCRIPT**
 
-- 📫 How to reach me **tarunkale01@gmail.com**
+- 📫 How to reach me **tarunkale01@gmail.com**</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
