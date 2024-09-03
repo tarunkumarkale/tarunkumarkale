@@ -4,7 +4,7 @@
 
 
 <p align="right">
-  <a href="www.linkedin.com/in/webdev-tarunkale" target="_blank">
+  <a href="https://www.linkedin.com/in/webdev-tarunkale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-tarun--kale-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
 </p>
