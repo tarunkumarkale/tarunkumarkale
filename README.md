@@ -4,13 +4,13 @@
 
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/tarun-kale" target="_blank">
+  <a href="www.linkedin.com/in/webdev-tarunkale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-tarun--kale-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
 </p>
 
 <div  align="center" >
- 🌱 I’m currently learning **Next js**
+ 🌱 I’m currently learning **prompt engineering**
 
  💬 Ask me about **REACT JS , JAVASCRIPT**
 
