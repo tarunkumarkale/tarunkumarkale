@@ -17,22 +17,32 @@
 
 
 
-<h2 align="center">🌱 Currently Learning:</h2>
+
+<h2 align="center">🌱 <span style="color: #4CAF50;">Currently Learning:</span></h2>
 <p align="center">
-  <strong>🚀 Prompt Engineering</strong><br/>
-  <strong>⚛️ React.js | 💻 JavaScript | 🛠️ Redux</strong>
+  <strong style="color: #FF5722;">🚀 Prompt Engineering</strong><br/>
+  <strong style="color: #FFC107;">⚛️ React.js</strong> | 
+  <strong style="color: #2196F3;">💻 JavaScript</strong> | 
+  <strong style="color: #E91E63;">🛠️ Redux</strong>
 </p>
 
-<h2 align="center">💬 Ask me about:</h2>
+<h2 align="center">💬 <span style="color: #FF5722;">Ask me about:</span></h2>
 <p align="center">
-  <strong>🎨 Frontend Development</strong><br/>
-  <strong>⚛️ React.js | 💻 JavaScript | 🎨 CSS</strong>
+  <strong style="color: #FF9800;">🎨 Frontend Development</strong><br/>
+  <strong style="color: #FFC107;">⚛️ React.js</strong> | 
+  <strong style="color: #2196F3;">💻 JavaScript</strong> | 
+  <strong style="color: #E91E63;">🎨 CSS</strong>
 </p>
 
-<h2 align="center">📫 Reach me at:</h2>
+<h2 align="center">📫 <span style="color: #4CAF50;">Reach me at:</span></h2>
 <p align="center">
-  <a href="mailto:tarunkale01@gmail.com"><strong>✉️ tarunkale01@gmail.com</strong></a>
+  <a href="mailto:tarunkale01@gmail.com">
+    <strong style="color: #FF5722;">✉️ tarunkale01@gmail.com</strong>
+  </a>
 </p>
+
+
+
 
 
 
