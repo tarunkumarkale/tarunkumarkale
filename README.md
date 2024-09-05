@@ -18,6 +18,8 @@
 
 
 
+
+
 <h2 align="center">🌱 <span style="color: #4CAF50;">Currently Learning:</span></h2>
 <p align="center">
   <strong style="color: #FF5722;">🚀 Prompt Engineering</strong><br/>
@@ -41,12 +43,10 @@
   </a>
 </p>
 
-
-
-
-
-
 ---
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
