@@ -15,16 +15,26 @@
 
 ---
 
-### 🌱 **Currently Learning:**
-- Prompt Engineering
-- React.js | JavaScript | Redux
 
-### 💬 **Ask me about:**
-- Frontend Development
-- React.js, JavaScript, CSS
 
-### 📫 **Reach me at:**
-- **Email:** [tarunkale01@gmail.com](mailto:tarunkale01@gmail.com)
+<h2 align="center">🌱 Currently Learning:</h2>
+<p align="center">
+  <strong>🚀 Prompt Engineering</strong><br/>
+  <strong>⚛️ React.js | 💻 JavaScript | 🛠️ Redux</strong>
+</p>
+
+<h2 align="center">💬 Ask me about:</h2>
+<p align="center">
+  <strong>🎨 Frontend Development</strong><br/>
+  <strong>⚛️ React.js | 💻 JavaScript | 🎨 CSS</strong>
+</p>
+
+<h2 align="center">📫 Reach me at:</h2>
+<p align="center">
+  <a href="mailto:tarunkale01@gmail.com"><strong>✉️ tarunkale01@gmail.com</strong></a>
+</p>
+
+
 
 ---
 
